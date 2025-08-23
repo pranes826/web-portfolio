@@ -28,25 +28,25 @@ This repository contains my journey of learning **web development basics**, star
 
 Day 1 HTML file - ![Day 1 HTML](Day%201%20-%20HTML.png)
 
-Day 1 Webpage - 'Day 1 - Web Page.png'
+Day 1 Webpage - ![Day 1 Webpage](Day%201%20-%20Web%20Page.png)
 
-Day 2 HTML file - 'images/Day 2 - HTML.png'
+Day 2 HTML file - ![Day 2 HTML](Day%202%20-%20HTML.png)
 
-Day 2 CSS file - 'images/Day 2 - CSS Style Sheet.png'
+Day 2 CSS file - ![Day 2 CSS](Day%202%20-%20CSS%20Style%20Sheet.png)
 
-Day 2 Webpage - 'images/Day 2 - Web Page.png'
+Day 2 Webpage - ![Day 2 Webpage](Day%202%20-%20Web%20Page.png)
 
-Day 2 + Flexbox HTML file - 'images/Day 2 + Flexbox - HTML.png'
+Day 2 + Flexbox HTML file - ![Day 2 + Flexbox HTML](Day2%20+%20Flexbox%20-%20HTML.png)
 
-Day 2 + Flexbox CSS file - 'images/Day 2 + Flexbox - CSS Stylesheet.png'
+Day 2 + Flexbox CSS file - ![Day 2 + Flexbox CSS](Day2%20+%20Flexbox%20-%20CSS%20Stylesheet.png)
 
-Day 2 + Flexbox Webpage - 'images/Day 2 + Flexbox - (Web Page).png'
+Day 2 + Flexbox Webpage - ![Day 2 + Flexbox HTML](Day%202%20+%20Flexbox%20-%20(Web%20Page).png)
 
-Final Portfolio HTML file - 'images/Final Portfolio - HTML.png'
+Final Portfolio HTML file - ![Final Portfolio HTML](Final%20Portfolio%20-%20HTML.png)
 
-Final Portfolio CSS file - 'images/Final Portfolio - CSS Stylesheet.png'
+Final Portfolio CSS file - ![Final Portfolio HTML](Final%20Portfolio%20-%20CSS%20Stylesheet.png)
 
-Final Portfolio Webpage - 'images/Final Portfolio - Web Page.png'
+Final Portfolio Webpage - ![Final Portfolio HTML](Final%20Portfolio%20-%20Web%20Page.png)
 
 
 

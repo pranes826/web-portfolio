@@ -1,4 +1,4 @@
-#🌐 Personal Portfolio (Learning HTML, CSS, Flexbox, and Grid)
+# 🌐 Personal Portfolio (Learning HTML, CSS, Flexbox, and Grid)
 This repository contains my journey of learning **web development basics**, starting from simple HTML pages to a fully styled portfolio webpage using **CSS Grid**.  
 
 ## 📂 Project Files
@@ -17,14 +17,14 @@ This repository contains my journey of learning **web development basics**, star
   Includes sections like *About Me, Hobbies, Goals, and Projects*.  
 
 
-##🎯 Features
+## 🎯 Features
 - Clean and structured HTML  
 - External CSS with styling for headings, layouts, and sections  
 - Practice of **Flexbox** and **CSS Grid** layouts  
 - Portfolio design showing About Me, Hobbies, Goals, and Learning Path  
 
 
-##📸 Screenshots
+## 📸 Screenshots
 Day 1 HTML file - 
 Day 1 Webpage -
 Day 2 HTML file -

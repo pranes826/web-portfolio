@@ -26,15 +26,25 @@ This repository contains my journey of learning **web development basics**, star
 
 ## 📸 Screenshots
 Day 1 HTML file - 'images/Day 1 - HTML.png'
+
 Day 1 Webpage - 'images/Day 1 - Web Page.png'
+
 Day 2 HTML file - 'images/Day 2 - HTML.png'
+
 Day 2 CSS file - 'images/Day 2 - CSS Style Sheet.png'
+
 Day 2 Webpage - 'images/Day 2 - Web Page.png'
+
 Day 2 + Flexbox HTML file - 'images/Day 2 + Flexbox - HTML.png'
+
 Day 2 + Flexbox CSS file - 'images/Day 2 + Flexbox - CSS Stylesheet.png'
+
 Day 2 + Flexbox Webpage - 'images/Day 2 + Flexbox - (Web Page).png'
+
 Final Portfolio HTML file - 'images/Final Portfolio - HTML.png'
+
 Final Portfolio CSS file - 'images/Final Portfolio - CSS Stylesheet.png'
+
 Final Portfolio Webpage - 'images/Final Portfolio - Web Page.png'
 
 

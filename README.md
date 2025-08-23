@@ -25,7 +25,7 @@ This repository contains my journey of learning **web development basics**, star
 
 
 ## 📸 Screenshots
-Day 1 HTML file - images/Day 1 - HTML.png
+Day 1 HTML file - (images/Day 1 - HTML.png)
 
 Day 1 Webpage - 'images/Day 1 - Web Page.png'
 

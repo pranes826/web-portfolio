@@ -27,7 +27,7 @@ This repository contains my journey of learning **web development basics**, star
 ## 📸 Screenshots
 
 Day 1 HTML file - ![Day 1 HTML]
-(https://raw.githubusercontent.com/pranes826/portfolio/images/Day%201%20-%20HTML.png)
+(https://raw.githubusercontent.com/pranes826/web-portfolio/images/Day%201%20-%20HTML.png)
 (Day%201%20-%20HTML.png)
 
 Day 1 Webpage - ![Day 1 Webpage](Day%201%20-%20Web%20Page.png)

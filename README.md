@@ -38,7 +38,7 @@ Day 2 Webpage - ![Day 2 Webpage] (images/Day%202%20-%20Web%20Page.png)
 
 Day 2 + Flexbox HTML file - ![Day 2 + Flexbox HTML](Day%202%20+%20Flexbox%20-%20HTML.png)
 
-Day 2 + Flexbox CSS file - ![Day 2 + Flexbox CSS](Day%202%20+%20Flexbox%20-%20CSS%20Stylesheet.png)
+Day 2 + Flexbox CSS file - ![Day 2 + Flexbox CSS](images/Day%202%20+%20Flexbox%20-%20CSS%20Stylesheet.png)
 
 Day 2 + Flexbox Webpage - ![Day 2 + Flexbox HTML](Day%202%20+%20Flexbox%20-%20(Web%20Page).png)
 
